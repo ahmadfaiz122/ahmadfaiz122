@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ahmadfaiz
+- 👋 Hi, I’m faiz
 - 👀 I’m interested in web development
 - 📫 contact me via instagram in my bio
 
