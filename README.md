@@ -1,5 +1,5 @@
 - 👋 Hi, I’m faiz
-- 👀 I’m interested in web development
+- 👀 I’m interested in cyber security
 - 📫 contact me via instagram in my bio
 
 <!---
