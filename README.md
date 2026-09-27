@@ -8,11 +8,11 @@ I enjoy understanding how systems work, finding security weaknesses, building us
 
 ```text
 ┌─────────────────────────────────────────────────────────────┐
-│  FaizCode                                                   │
-│  Artificial Intelligence Student                           │
+│  Faiz                                                       │
+│  Artificial Intelligence Student                            │
 │                                                             │
-│  Security Research  •  Web Development  •  AI              │
-│  CTF  •  Bug Hunting  •  Automation                        │
+│  Security Research  •  Web Development  •  AI               │
+│  CTF  •  Bug Hunting  •  Automation                         │
 └─────────────────────────────────────────────────────────────┘
 ```
 
